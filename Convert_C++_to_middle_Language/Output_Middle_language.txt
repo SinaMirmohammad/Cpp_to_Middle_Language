@@ -1,0 +1,3 @@
+float ID sim_ass_opr NUM;
+int ID sim_ass_opr NUM;
+
